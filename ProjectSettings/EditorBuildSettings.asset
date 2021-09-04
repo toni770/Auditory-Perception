@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AvisAuriculars.unity
+    guid: 363a90a2a530598429e1b00347b9153c
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 5c04320c386b2a54794968ff7a603d1d
+  - enabled: 1
+    path: Assets/Scenes/MenuOpcions.unity
+    guid: c7ca5f2e5c16b6e4f955bb979f6907bc
+  - enabled: 1
+    path: Assets/Scenes/IntroHistoria.unity
+    guid: 476298ffe7660e243823669c3adcbdc1
+  - enabled: 1
+    path: Assets/Scenes/minijoc1.unity
+    guid: e9199b0769162134a9d54483e22a5716
+  - enabled: 1
+    path: Assets/Scenes/minijoc2.unity
+    guid: 1c1d6041b9ff72348902770b5a2b8ed3
+  - enabled: 1
+    path: Assets/Scenes/minijoc3.unity
+    guid: 7c05465e924cf9a4b8b6f44410412997
+  - enabled: 1
+    path: Assets/Scenes/minijoc4.unity
+    guid: 415cd0ff80b400e46b1e82ea9a8b04d7
+  - enabled: 1
+    path: Assets/Scenes/Resultats.unity
+    guid: daa82101b9cf6344a9313ef86c93de06
+  m_configObjects: {}
